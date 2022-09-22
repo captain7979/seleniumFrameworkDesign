@@ -7,11 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.sun.net.httpserver.Authenticator.Retry;
-
 import rudraAcademy.pageObjects.cartPage;
-import rudraAcademy.pageObjects.checkOutPage;
-import rudraAcademy.pageObjects.confirmationPage;
 import rudraAcademy.pageObjects.productCatalogue;
 import rudraAcademy.testcomponents.baseTest;
 
